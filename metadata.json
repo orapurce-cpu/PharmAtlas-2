@@ -1,0 +1,6 @@
+{
+  "name": "PharmAtlas Android - Чекер совместимости 5 препаратов",
+  "description": "Android-приложение клинического анализа взаимодействия до 5 лекарственных препаратов с переключением режимов 'Для профессионалов' и 'Для потребителей', базой ГРЛС и доказательной аргументацией.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

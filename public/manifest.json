@@ -1,0 +1,25 @@
+{
+  "short_name": "PharmAtlas",
+  "name": "PharmAtlas Android - Чекер совместимости 5 препаратов",
+  "start_url": "/?utm_source=homescreen",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0f172a",
+  "background_color": "#090d16",
+  "lang": "ru",
+  "categories": ["health", "medical"],
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
